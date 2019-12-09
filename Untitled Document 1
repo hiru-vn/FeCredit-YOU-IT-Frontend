@@ -1,0 +1,9 @@
+A solution to this is to wrap any action inside of your onPress handler in requestAnimationFrame:
+
+handleOnPress() {
+  requestAnimationFrame(() => {
+    this.doExpensiveAction();
+  });
+}
+
+Perf Monitor from the Debug menu.

@@ -1,0 +1,317 @@
+[
+	{
+		"Name": "An Giang",
+		"Value": "An Giang",
+		"Id": "An Giang"
+	},
+	{
+		"Name": "Bà Rịa – Vũng Tàu",
+		"Value": "Bà Rịa – Vũng Tàu",
+		"Id": "Bà Rịa – Vũng Tàu"
+	},
+	{
+		"Name": "Bắc Giang",
+		"Value": "Bắc Giang",
+		"Id": "Bắc Giang"
+	},
+	{
+		"Name": "Bắc Kạn",
+		"Value": "Bắc Kạn",
+		"Id": "Bắc Kạn"
+	},
+	{
+		"Name": "Bạc Liêu",
+		"Value": "Bạc Liêu",
+		"Id": "Bạc Liêu"
+	},
+	{
+		"Name": "Bắc Ninh",
+		"Value": "Bắc Ninh",
+		"Id": "Bắc Ninh"
+	},
+	{
+		"Name": "Bến Tre",
+		"Value": "Bến Tre",
+		"Id": "Bến Tre"
+	},
+	{
+		"Name": "Bình Định",
+		"Value": "Bình Định",
+		"Id": "Bình Định"
+	},
+	{
+		"Name": "Bình Dương",
+		"Value": "Bình Dương",
+		"Id": "Bình Dương"
+	},
+	{
+		"Name": "Bình Phước",
+		"Value": "Bình Phước",
+		"Id": "Bình Phước"
+	},
+	{
+		"Name": "Bình Thuận",
+		"Value": "Bình Thuận",
+		"Id": "Bình Thuận"
+	},
+	{
+		"Name": "Cà Mau",
+		"Value": "Cà Mau",
+		"Id": "Cà Mau"
+	},
+	{
+		"Name": "Cần Thơ",
+		"Value": "Cần Thơ",
+		"Id": "Cần Thơ"
+	},
+	{
+		"Name": "Cao Bằng",
+		"Value": "Cao Bằng",
+		"Id": "Cao Bằng"
+	},
+	{
+		"Name": "Đà Nẵng",
+		"Value": "Đà Nẵng",
+		"Id": "Đà Nẵng"
+	},
+	{
+		"Name": "Đắk Lắk",
+		"Value": "Đắk Lắk",
+		"Id": "Đắk Lắk"
+	},
+	{
+		"Name": "Đắk Nông",
+		"Value": "Đắk Nông",
+		"Id": "Đắk Nông"
+	},
+	{
+		"Name": "Điện Biên",
+		"Value": "Điện Biên",
+		"Id": "Điện Biên"
+	},
+	{
+		"Name": "Đồng Nai",
+		"Value": "Đồng Nai",
+		"Id": "Đồng Nai"
+	},
+	{
+		"Name": "Đồng Tháp",
+		"Value": "Đồng Tháp",
+		"Id": "Đồng Tháp"
+	},
+	{
+		"Name": "Gia Lai",
+		"Value": "Gia Lai",
+		"Id": "Gia Lai"
+	},
+	{
+		"Name": "Hà Giang",
+		"Value": "Hà Giang",
+		"Id": "Hà Giang"
+	},
+	{
+		"Name": "Hà Nam",
+		"Value": "Hà Nam",
+		"Id": "Hà Nam"
+	},
+	{
+		"Name": "Hà Nội",
+		"Value": "Hà Nội",
+		"Id": "Hà Nội"
+	},
+	{
+		"Name": "Hà Tĩnh",
+		"Value": "Hà Tĩnh",
+		"Id": "Hà Tĩnh"
+	},
+	{
+		"Name": "Hải Dương",
+		"Value": "Hải Dương",
+		"Id": "Hải Dương"
+	},
+	{
+		"Name": "Hải Phòng",
+		"Value": "Hải Phòng",
+		"Id": "Hải Phòng"
+	},
+	{
+		"Name": "Hậu Giang",
+		"Value": "Hậu Giang",
+		"Id": "Hậu Giang"
+	},
+	{
+		"Name": "Hòa Bình",
+		"Value": "Hòa Bình",
+		"Id": "Hòa Bình"
+	},
+	{
+		"Name": "Hưng Yên",
+		"Value": "Hưng Yên",
+		"Id": "Hưng Yên"
+	},
+	{
+		"Name": "Khánh Hòa",
+		"Value": "Khánh Hòa",
+		"Id": "Khánh Hòa"
+	},
+	{
+		"Name": "Kiên Giang",
+		"Value": "Kiên Giang",
+		"Id": "Kiên Giang"
+	},
+	{
+		"Name": "Kon Tum",
+		"Value": "Kon Tum",
+		"Id": "Kon Tum"
+	},
+	{
+		"Name": "Lai Châu",
+		"Value": "Lai Châu",
+		"Id": "Lai Châu"
+	},
+	{
+		"Name": "Lâm Đồng",
+		"Value": "Lâm Đồng",
+		"Id": "Lâm Đồng"
+	},
+	{
+		"Name": "Lạng Sơn",
+		"Value": "Lạng Sơn",
+		"Id": "Lạng Sơn"
+	},
+	{
+		"Name": "Lào Cai",
+		"Value": "Lào Cai",
+		"Id": "Lào Cai"
+	},
+	{
+		"Name": "Long An",
+		"Value": "Long An",
+		"Id": "Long An"
+	},
+	{
+		"Name": "Nam Định",
+		"Value": "Nam Định",
+		"Id": "Nam Định"
+	},
+	{
+		"Name": "Nghệ An",
+		"Value": "Nghệ An",
+		"Id": "Nghệ An"
+	},
+	{
+		"Name": "Ninh Bình",
+		"Value": "Ninh Bình",
+		"Id": "Ninh Bình"
+	},
+	{
+		"Name": "Ninh Thuận",
+		"Value": "Ninh Thuận",
+		"Id": "Ninh Thuận"
+	},
+	{
+		"Name": "Phú Thọ",
+		"Value": "Phú Thọ",
+		"Id": "Phú Thọ"
+	},
+	{
+		"Name": "Phú Yên",
+		"Value": "Phú Yên",
+		"Id": "Phú Yên"
+	},
+	{
+		"Name": "Quảng Bình",
+		"Value": "Quảng Bình",
+		"Id": "Quảng Bình"
+	},
+	{
+		"Name": "Quảng Nam",
+		"Value": "Quảng Nam",
+		"Id": "Quảng Nam"
+	},
+	{
+		"Name": "Quảng Ngãi",
+		"Value": "Quảng Ngãi",
+		"Id": "Quảng Ngãi"
+	},
+	{
+		"Name": "Quảng Ninh",
+		"Value": "Quảng Ninh",
+		"Id": "Quảng Ninh"
+	},
+	{
+		"Name": "Quảng Trị",
+		"Value": "Quảng Trị",
+		"Id": "Quảng Trị"
+	},
+	{
+		"Name": "Sóc Trăng",
+		"Value": "Sóc Trăng",
+		"Id": "Sóc Trăng"
+	},
+	{
+		"Name": "Sơn La",
+		"Value": "Sơn La",
+		"Id": "Sơn La"
+	},
+	{
+		"Name": "Tây Ninh",
+		"Value": "Tây Ninh",
+		"Id": "Tây Ninh"
+	},
+	{
+		"Name": "Thái Bình",
+		"Value": "Thái Bình",
+		"Id": "Thái Bình"
+	},
+	{
+		"Name": "Thái Nguyên",
+		"Value": "Thái Nguyên",
+		"Id": "Thái Nguyên"
+	},
+	{
+		"Name": "Thanh Hóa",
+		"Value": "Thanh Hóa",
+		"Id": "Thanh Hóa"
+	},
+	{
+		"Name": "Thừa Thiên Huế",
+		"Value": "Thừa Thiên Huế",
+		"Id": "Thừa Thiên Huế"
+	},
+	{
+		"Name": "Tiền Giang",
+		"Value": "Tiền Giang",
+		"Id": "Tiền Giang"
+	},
+	{
+		"Name": "TP Hồ Chí Minh",
+		"Value": "TP Hồ Chí Minh",
+		"Id": "TP Hồ Chí Minh"
+	},
+	{
+		"Name": "Trà Vinh",
+		"Value": "Trà Vinh",
+		"Id": "Trà Vinh"
+	},
+	{
+		"Name": "Tuyên Quang",
+		"Value": "Tuyên Quang",
+		"Id": "Tuyên Quang"
+	},
+	{
+		"Name": "Vĩnh Long",
+		"Value": "Vĩnh Long",
+		"Id": "Vĩnh Long"
+	},
+	{
+		"Name": "Vĩnh Phúc",
+		"Value": "Vĩnh Phúc",
+		"Id": "Vĩnh Phúc"
+	},
+	{
+		"Name": "Yên Bái",
+		"Value": "Yên Bái",
+		"Id": "Yên Bái"
+	}
+]
